@@ -54,12 +54,6 @@ catalogo-filmes/
 
 ---
 
-## 📸 Demonstração (opcional)
-
-Adicione aqui um print ou gif animado mostrando o projeto funcionando.
-
----
-
 ## 📄 Licença
 
 Este projeto é livre para fins educacionais e pessoais.
