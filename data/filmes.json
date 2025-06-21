@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titulo": "Matrix",
+    "ano": 1999,
+    "genero": "Ação",
+    "capa": "img/matrix.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": 2001,
+    "genero": "Fantasia",
+    "capa": "img/senhor-dos-aneis.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Forrest Gump",
+    "ano": 1994,
+    "genero": "Drama",
+    "capa": "img/forrest-gump.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "O Máskara",
+    "ano": 1994,
+    "genero": "Comédia",
+    "capa": "img/mascara.jpg"
+  }
+]
