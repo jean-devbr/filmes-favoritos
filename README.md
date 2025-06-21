@@ -66,5 +66,5 @@ Este projeto é livre para fins educacionais e pessoais.
 
 ---
 
-Feito com ❤️ por \[Jean]
+Feito com ❤️ por Jean Costa
 
